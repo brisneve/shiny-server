@@ -1,2 +1,1 @@
 # shiny-server
-Sample
